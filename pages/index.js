@@ -67,9 +67,6 @@ export default function Home() {
               <a href="https://www.linkedin.com/in/deep-technology/" target="_blank">
                 <AiFillLinkedin />
               </a>
-              <a href="https://github.com/MousufCZ" target="_blank">
-                <AiFillYoutube />
-              </a>
             </div>
             <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96">
               <Image src={deved} layout="fill" objectFit="cover" />
